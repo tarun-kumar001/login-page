@@ -1,0 +1,62 @@
+
+  input[type=text], input[type=password] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 25%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+ 
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  img.avatar {
+    width: 20%;
+    border-radius:250%;
+  }
+  
+  .container {
+    padding: 16px;
+  }
+  
+  span.psw {
+    float: center;
+    padding-top: 16px;
+  }
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 70%;
+    }
+  
+  body {
+    background-image: url('hospital.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  .a{
+    text-align: center;
+    text-decoration: none;
+  }
